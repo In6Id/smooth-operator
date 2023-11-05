@@ -7,8 +7,8 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "GzaGzaCar",
-    "slug": "gzagzacar",
+    "name": "Smooth-Operator",
+    "slug": "smooth-operator",
     "extra": {
       "router": {
         "origin": false
@@ -17,6 +17,6 @@
         "projectId": "491117b5-c537-43c4-b5d4-072098e8f947"
       }
     },
-    "owner": "betelheize"
+    "owner": "IN6ID"
   }
 }
