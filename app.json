@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "GzaGzaCar",
+    "slug": "gzagzacar",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "491117b5-c537-43c4-b5d4-072098e8f947"
+      }
+    },
+    "owner": "betelheize"
+  }
+}
